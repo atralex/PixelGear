@@ -23,4 +23,4 @@ Una aplicación integral para gestionar tu mundo de entretenimiento y moda. Orga
 ## 💻 Tecnologías Utilizadas
 - **Front-end:** _React_
 - **Back-end:** _Express_
-- **Base de datos:** _MySQL_
+- **Base de datos:** _MongoDB_
